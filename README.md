@@ -23,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haruun-srkslr&show_icons=true&locale=en" alt="haruun-srkslr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haruun-srkslr&" alt="haruun-srkslr" /></p>
+
+
+
+![snake gif](https://github.com/haruun-srkslr/haruun-srkslr/blob/output/github-contribution-grid-snake.gif)
+
+

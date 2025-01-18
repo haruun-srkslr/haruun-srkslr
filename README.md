@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/T1owaGKLbhAGqfMyt2ntvTztxKatqiLlR-6PWXWmZ0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzgyNy82NS8z/MjAvZmlyZXdhdGNo/LTRrLWJlc3Qtd2Fs/bHBhcGVyLXByZXZp/ZXcuanBn)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*NTniSp4rvcVUPqIh-GoOIg.jpeg)
 <h1 align="center">Hi 👋, I'm Harun Sarıkuşlar</h1>
 <h3 align="center">Mechatronic Engineering and ROS Student</h3>
 
